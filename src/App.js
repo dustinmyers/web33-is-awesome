@@ -6,17 +6,7 @@ function App() {
   return (
     <main>
       <h1>React is amazing! ⚛️</h1>
-      <h2>
-        Deployed with{" "}
-        <a
-          href="https://vercel.com/docs"
-          target="_blank"
-          rel="noreferrer noopener"
-        >
-          Vercel
-        </a>
-        !
-      </h2>
+      <h2>Web 33 is awesome 🔥🔥🔥</h2>
       <p>
         <a
           href="https://github.com/vercel/vercel/tree/master/examples/create-react-app"
